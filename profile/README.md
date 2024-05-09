@@ -1,6 +1,6 @@
-# Lightio Studios
+# Creativa Studios
 
-Welcome to the official organization of Lightio Studios. We are still a small organization with huge plans!
+Welcome to the official organization of Creativa Studios. We are still a small organization with huge plans!
 
 ---
 
