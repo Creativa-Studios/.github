@@ -6,7 +6,7 @@ Welcome to the official organization of Creativa Studios. We are still a small o
 
 ## Projects
 
-- **LightioMC.de** - a Bedrock Minigame Network
+- **LightioMC.net** - a Bedrock Minigame Network
 - **CrivitySucht.de** - a Bedrock CityBuild Network
 
 ---
@@ -16,9 +16,9 @@ Welcome to the official organization of Creativa Studios. We are still a small o
 LightioMC.de is our major project where we have been already working on since early 2023! LightioMC will be a small minigames network in which past gamemodes come together!
 
 **More about the project:**
-- [LightioMC Discord](https://lightiomc.de/go/discord)
-- [LightioMC Website](https://lightiomc.de)
-- [LightioMC Vote](https://vote.lightiomc.de)
+- [LightioMC Discord](discord.lightiomc.net)
+- [LightioMC Website](https://lightiomc.net)
+- [LightioMC Vote](vote.lightiomc.net)
 
 ### About CrivitySucht
 
