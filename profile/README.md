@@ -17,7 +17,7 @@ LightioMC.de is our major project where we have been already working on since ea
 
 **More about the project:**
 - [LightioMC Discord](discord.lightiomc.net)
-- [LightioMC Website](www.lightiomc.net)
+- [LightioMC Website](http://lightiomc.net)
 - [LightioMC Vote](vote.lightiomc.net)
 
 ### About CrivitySucht
