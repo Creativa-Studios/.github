@@ -1,13 +1,11 @@
 # Creativa Studios
-
 Welcome to the official organization of Creativa Studios. We are still a small organization with huge plans!
 
 ---
 
 ## Projects
 
-- **LightioMC.net** - a Bedrock Minigame Network
-- **CrivitySucht.de** - a Bedrock CityBuild Network
+- **LightioMC.net** - a Bedrock PVP Network
 
 ---
 
@@ -19,12 +17,3 @@ LightioMC.de is our major project where we have been already working on since ea
 - [LightioMC Discord](discord.lightiomc.net)
 - [LightioMC Website](http://lightiomc.net)
 - [LightioMC Vote](vote.lightiomc.net)
-
-### About CrivitySucht
-
-CrivitySucht.de, our second project, is managed by the project leader: **GamerMJay**. This project has been running since the beginning of 2019 and gives players who feel drawn to the CityBuild concept a new perspective on it.
-
-**More about the project:**
-- [CrivitySucht Discord](https://discord.crivitysucht.de)
-- [CrivitySucht Website](https://crivitysucht.de)
-- [CrivitySucht Vote](https://vote.crivitysucht.de)
