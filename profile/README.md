@@ -6,7 +6,7 @@
 
 ## **Our Projects**
 
-- **LightioMC.net** - A dynamic Bedrock PVP network
+- **LightioMC.net** - A Java & Bedrock PVP network
 
 ---
 
